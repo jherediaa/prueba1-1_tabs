@@ -1,0 +1,7 @@
+{
+  "name": "prueba1-1_tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
